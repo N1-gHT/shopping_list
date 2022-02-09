@@ -7,4 +7,4 @@ delete 1 object from the list or delete all the list
 and we also able to quit the project
 For the moment there are no save but in is version 3 the save will be up
 
-This is on my first project on python 
+This is my first project on python 
