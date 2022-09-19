@@ -1,6 +1,6 @@
 # shopping_list
 Simple shopping list in python
-This project is in version 2
+This project is in version 2,
 We can add what we need to buy,
 See is shopping list
 delete 1 object from the list or delete all the list
