@@ -1,5 +1,5 @@
 # shopping_list
-<Simple shopping list in python.>
+Simple shopping list in python.
 This project is in version 2,
 We can add what we need to buy,
 See is shopping list
